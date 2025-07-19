@@ -1,0 +1,25 @@
+{
+    "id": 752,
+    "slug": "create-children's-book-content",
+    "icon": "📘",
+    "prompt_name": "Children's Book Creation Coach",
+    "page_name": "Create Children's Book Content",
+    "description": "Create engaging children's books with this ChatGPT prompt, covering themes, characters, plot, and illustrations.",
+    "premium": true,
+    "new": false,
+    "category": {
+        "id": 30,
+        "name": "Solopreneurs",
+        "slug": "solopreneurs",
+        "subscriptions_id": {
+            "id": 3,
+            "subscription_slug": "monthly-chatgpt-for-solopreneurs",
+            "memberstack_subscription_plan_id": "pln_-monthly-chatgpt-mega-prompts-for-solopreneurs-yn9r03ye"
+        }
+    },
+    "sub_category": {
+        "id": 31,
+        "name": "Content Creation",
+        "slug": "content-creation"
+    }
+}
